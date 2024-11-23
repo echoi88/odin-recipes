@@ -1,0 +1,22 @@
+* {
+    line-height: 1.5;
+}
+
+body {
+    font-family: Verdana, 'Geneva', Tahoma, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.main-img {
+    width: 300px;
+    height: auto;
+}
+
+ul {
+    list-style: none;
+}
+
+button {
+    font-size: 20px;
+}
